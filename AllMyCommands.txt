@@ -14,6 +14,6 @@ $ git commit -m"Feature: README.md File added"
 $ git checkout master
 $ git merge ReadMe
 $ git add AllMyCommands.txt
-$ git commit -m"Feature: README.md File added"
+$ git commit -m"Feature: AllMyCommands.txt File added"
 $ git pull origin master
 $ git push origin master 
