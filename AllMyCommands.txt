@@ -1,2 +1,6 @@
 $ git init
-
+$ git remote add origin https://github.com/Deathyz/myGitHubRep
+$ git pull origin master
+$ git rm File\ 2
+$ git commit -m"Feature: Remove file 2"
+$ git reset --hard Head~1
